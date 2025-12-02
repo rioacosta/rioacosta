@@ -2,14 +2,20 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "*/1 * * * *"   
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      # 1. Checkout del repo
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # 2. Generar la culebrita
+      - name: Generate snake
+        uses: Platane/snk@master
         with:
           github_user_name: rioacosta
           outputs: |
@@ -17,6 +23,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
             dist/snake-light.svg?palette=github-light
 
+      # 3. Publicar en la rama output
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
