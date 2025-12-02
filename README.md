@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- Para tema claro -->
-![Snake animation](https://github.com/rioacosta/rioacosta/blob/output/snake-light.svg#gh-light-mode-only)
+![Snake animation](https://github.com/rioacosta/rioacosta/blob/output/snake.svg)
+<!-- Para tema claro 
+![Snake animation](https://github.com/rioacosta/rioacosta/blob/output/snake-light.svg#gh-light-mode-only)-->
 
-<!-- Para tema oscuro -->
-![Snake animation](https://github.com/rioacosta/rioacosta/blob/output/snake-dark.svg#gh-dark-mode-only)
+<!-- Para tema oscuro 
+![Snake animation](https://github.com/rioacosta/rioacosta/blob/output/snake-dark.svg#gh-dark-mode-only)-->
