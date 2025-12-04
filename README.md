@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://github.com/rioacosta/rioacosta/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rioacosta/rioacosta/output/snake.svg)
 <!-- Para tema claro 
 ![Snake animation](https://github.com/rioacosta/rioacosta/blob/output/snake-light.svg#gh-light-mode-only)-->
 
