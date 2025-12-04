@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Snake animation](https://raw.githubusercontent.com/rioacosta/rioacosta/snake-light.svg#gh-light-mode-only)
-![Snake animation](https://github.com/rioacosta/rioacosta/blob/output/snake-dark.svg#gh-dark-mode-only)
 ![Snake animation](https://raw.githubusercontent.com/rioacosta/rioacosta/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rioacosta/rioacosta/snake-light.svg#gh-light-mode-only)
+-->
+![Snake animation](https://github.com/rioacosta/rioacosta/blob/output/snake-dark.svg#gh-dark-mode-only)
