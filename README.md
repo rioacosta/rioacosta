@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ![Snake animation](https://raw.githubusercontent.com/rioacosta/rioacosta/output/snake.svg)
 <!-- Para tema claro 
 ![Snake animation](https://github.com/rioacosta/rioacosta/blob/output/snake-light.svg#gh-light-mode-only)-->
-
-<!-- Para tema oscuro 
-![Snake animation](https://github.com/rioacosta/rioacosta/blob/output/snake-dark.svg#gh-dark-mode-only)-->
+)
+<!-- Para tema oscuro -->
+![Snake animation](https://github.com/rioacosta/rioacosta/blob/output/snake-dark.svg#gh-dark-mode-only
